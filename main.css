@@ -17,9 +17,6 @@ div{
     margin-top: 50px;
     
 }
-div :hover {
-    margin-top: -12px;
-}
 
 body{
     background-color: antiquewhite;
